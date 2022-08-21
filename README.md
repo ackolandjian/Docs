@@ -1,2 +1,2 @@
 # Docs
-Where I put all of my docs and articles.
+Where I store all my docs and articles.
